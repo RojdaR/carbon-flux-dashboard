@@ -44,7 +44,7 @@ shiny::runApp("app.R")
 
 ## Background
 
-Developed for the [CABBI](https://cabbi.bio/) (Center for Advanced Bioenergy and Bioproducts Innovation) research program at Iowa State University. Supports data exploration across the Iowa SABR, Illinois Energy Farm, and Florida sites.
+Developed for the [CABBI](https://cabbi.bio/) (Center for Advanced Bioenergy and Bioproducts Innovation) research program at Iowa State University. Supports data exploration across the Iowa SABR and Illinois Energy Farm sites.
 
 ## Author
 
